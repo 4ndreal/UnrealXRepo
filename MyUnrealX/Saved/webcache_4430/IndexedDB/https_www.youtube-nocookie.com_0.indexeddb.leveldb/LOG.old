@@ -1,0 +1,8 @@
+2024/07/17-01:57:09.038 2748 Reusing MANIFEST D:/Unreal Projects/MyFirstGame_Andika/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/17-01:57:09.038 2748 Recovering log #4
+2024/07/17-01:57:09.039 2748 Reusing old log D:/Unreal Projects/MyFirstGame_Andika/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/07/17-01:59:27.628 4880 Level-0 table #8: started
+2024/07/17-01:59:27.628 4880 Level-0 table #8: 0 bytes OK
+2024/07/17-01:59:27.672 4880 Delete type=0 #4
+2024/07/17-01:59:27.688 4880 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/17-01:59:27.688 4880 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
